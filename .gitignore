@@ -1,0 +1,6 @@
+# Backup and incoming raw files
+originals_backup/
+incoming/
+*.pyc
+__pycache__/
+.vscode/
